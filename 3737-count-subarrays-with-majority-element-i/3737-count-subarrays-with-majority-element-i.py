@@ -1,42 +1,18 @@
-from typing import List
-
-class Fenwick:
-    def __init__(self, n):
-        self.bit = [0] * (n + 1)
-
-    def update(self, i, delta):
-        while i < len(self.bit):
-            self.bit[i] += delta
-            i += i & -i
-
-    def query(self, i):
-        res = 0
-        while i > 0:
-            res += self.bit[i]
-            i -= i & -i
-        return res
-
-
 class Solution:
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
-        pref = [0]
-
-        s = 0
-        for x in nums:
-            s += 1 if x == target else -1
-            pref.append(s)
-
-        vals = sorted(set(pref))
-        rank = {v: i + 1 for i, v in enumerate(vals)}
-
-        bit = Fenwick(len(vals))
+        n = len(nums)
         ans = 0
 
-        for p in pref:
-            r = rank[p]
+        for l in range(n):
+            target_count = 0
 
-            ans += bit.query(r - 1)   # count previous prefix sums < p
+            for r in range(l, n):
+                if nums[r] == target:
+                    target_count += 1
 
-            bit.update(r, 1)
+                length = r - l + 1
+
+                if target_count > length // 2:
+                    ans += 1
 
         return ans
