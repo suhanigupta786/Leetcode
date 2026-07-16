@@ -1,11 +1,19 @@
 class Solution:
-    def gcdSum(self, A: list[int]) -> int:
-        maxi, n = 0, len(A)
+    def gcdSum(self, nums: list[int]) -> int:
+        mx = 0
 
-        for i in range(n):
-            maxi = max(maxi, A[i])
-            A[i] = gcd(A[i], maxi)
+        for i in range(len(nums)):
+            mx = max(mx, nums[i])
+            nums[i] = gcd(mx, nums[i])
 
-        A.sort()
+        nums.sort()
 
-        return sum(gcd(A[i], A[~i]) for i in range(n // 2))
+        left, right = 0, len(nums) - 1
+        ans = 0
+
+        while left < right:
+            ans += gcd(nums[left], nums[right])
+            left += 1
+            right -= 1
+
+        return ans
