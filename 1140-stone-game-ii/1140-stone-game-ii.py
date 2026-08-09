@@ -1,32 +1,13 @@
-from typing import List
-from functools import lru_cache
-
 class Solution:
     def stoneGameII(self, piles: List[int]) -> int:
-        n = len(piles)
+        for i in range(len(piles) - 2, -1, -1):
+            piles[i] += piles[i + 1]
 
-        # suffix[i] = total stones from i to the end
-        suffix = [0] * (n + 1)
+        @cache
+        def dfs(i, M):
+            if i + M * 2 >= len(piles):
+                return piles[i]
 
-        for i in range(n - 1, -1, -1):
-            suffix[i] = suffix[i + 1] + piles[i]
+            return piles[i] - min(dfs(i + j, max(M, j)) for j in range(1, M * 2 + 1))
 
-        @lru_cache(None)
-        def dp(i, M):
-            if i >= n:
-                return 0
-
-            # Can take everything
-            if i + 2 * M >= n:
-                return suffix[i]
-
-            best = 0
-
-            for x in range(1, 2 * M + 1):
-                # Stones current player can get
-                current = suffix[i] - dp(i + x, max(M, x))
-                best = max(best, current)
-
-            return best
-
-        return dp(0, 1)
+        return dfs(0, 1)
