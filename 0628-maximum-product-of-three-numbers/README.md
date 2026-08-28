@@ -12,7 +12,7 @@
 <strong>Output:</strong> -6
 </pre>
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>constraints:</strong></p>
 
 <ul>
 	<li><code>3 &lt;= nums.length &lt;=&nbsp;10<sup>4</sup></code></li>
