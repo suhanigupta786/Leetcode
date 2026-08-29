@@ -1,7 +1,6 @@
 class Solution:
     def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
         MOD = 10**9 + 7
-
         pos = []
         digit = []
 
@@ -11,7 +10,6 @@ class Solution:
                 digit.append(int(ch))
 
         m = len(pos)
-
         pow10 = [1] * (m + 1)
         for i in range(1, m + 1):
             pow10[i] = (pow10[i - 1] * 10) % MOD
