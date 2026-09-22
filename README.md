@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhanigupta786/Leetcode/tree/master/0001-two-sum) |
+| [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/suhanigupta786/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanigupta786/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/suhanigupta786/Leetcode/tree/master/0835-image-overlap) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhanigupta786/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanigupta786/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suhanigupta786/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -380,10 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhanigupta786/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhanigupta786/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suhanigupta786/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
