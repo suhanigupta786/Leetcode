@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhanigupta786/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/suhanigupta786/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suhanigupta786/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/suhanigupta786/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suhanigupta786/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanigupta786/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suhanigupta786/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/suhanigupta786/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suhanigupta786/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suhanigupta786/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/suhanigupta786/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suhanigupta786/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanigupta786/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanigupta786/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suhanigupta786/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suhanigupta786/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhanigupta786/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/suhanigupta786/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suhanigupta786/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanigupta786/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suhanigupta786/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhanigupta786/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/suhanigupta786/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanigupta786/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suhanigupta786/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suhanigupta786/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
