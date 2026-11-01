@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/suhanigupta786/Leetcode/tree/master/0007-reverse-integer) |
 | [0342-power-of-four](https://github.com/suhanigupta786/Leetcode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanigupta786/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/suhanigupta786/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanigupta786/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/suhanigupta786/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhanigupta786/Leetcode/tree/master/0001-two-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanigupta786/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/suhanigupta786/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/suhanigupta786/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhanigupta786/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
